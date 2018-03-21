@@ -1,0 +1,25 @@
+{
+  "name": "n-puzzle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "npuzzle.js",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "heap": "^0.2.6",
+    "lodash": "^4.17.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nromptea42/n-puzzle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nromptea42/n-puzzle/issues"
+  },
+  "homepage": "https://github.com/nromptea42/n-puzzle#readme"
+}
